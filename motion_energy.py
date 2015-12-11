@@ -304,4 +304,4 @@ def plotFFTofME():
     sns.despine()
     plt.tight_layout()
 
-    plt.savefig('filt_frequency_domain.pdf')
+    plt.savefig('filt_frequency_domain.png')
