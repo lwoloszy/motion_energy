@@ -1,4 +1,4 @@
-# motion_analysis
+# motion_energy
 
 Scripts to generate random dot motion, create motion energy filters, and extract motion energy
 
